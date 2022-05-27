@@ -35,6 +35,8 @@
     ·
     <a href="https://github.com/fredmnpinto/smart_lion_mobile/">SmartLion Mobile</a>
     ·
+    <a href="https://github.com/21F0rc3/Smart-Lion-AI/">SmartLion AI</a>
+    ·
     <a href="https://github.com/21F0rc3/Smart-Lion-AI/issues">Report Bug</a>
     ·
     <a href="https://github.com/21F0rc3/Smart-Lion-AI/issues">Request Feature</a>
